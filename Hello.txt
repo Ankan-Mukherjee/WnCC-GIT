@@ -5,3 +5,5 @@ Change 1
 Change 2: First Change
 
 Change 3: New Text
+
+Change 4: Branch Change
